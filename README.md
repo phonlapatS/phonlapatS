@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rocket</h1>
-<h3 align="center">A passionate Back-end developer from Chiang mai , Thailand</h3>
+<h3 align="center">A passionate Back-end developer from Chiang mai, Thailand</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
