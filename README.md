@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">from Chiang Mai , Thailand<br><br>- 🔭 I’m studied as Rajamangala university of technology Lanna, Doi saket<br>- 📚 I'm currently learning : React , Nextjs , MongoDB<br>- ⚡ In my free time I listening to muisc , play games and coding</h3>
+<h3 align="left">from Chiang Mai , Thailand<br><br>- 🔭 I’m studied as Rajamangala university of technology Lanna, Doi saket<br>- 📚 I'm currently learning : ETL Process , MySQL , Python and Airflow<br>- ⚡ In my free time I listening to muisc , play games and coding</h3>
 
 ###
 
